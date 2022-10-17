@@ -1,0 +1,3 @@
+{"nome":"ricardo","sobrenome":"silva","idade":"29","cpf":"166"}
+{"nome":"alex","sobrenome":"silva","idade":"29","cpf":"166"}
+{"nome":"wl","sobrenome":"silva","idade":"29","cpf":"166"}
