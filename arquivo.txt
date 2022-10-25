@@ -1,3 +1,4 @@
-{"nome":"ricardo","sobrenome":"silva","idade":"29","cpf":"166"}
-{"nome":"alex","sobrenome":"silva","idade":"29","cpf":"166"}
-{"nome":"wl","sobrenome":"silva","idade":"29","cpf":"166"}
+{"name":"alex","surname":"silva","age":"40","document":"1442"}
+{"name":"wl","surname":"silva","age":"40","document":"144"}
+{"name":"ricardo","surname":"silva","age":"40","document":"14424"}
+{"name":"ricardo","surname":"silva","age":"40","document":"144244"}
